@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Quantcubator]]></title>
+        <description><![CDATA[Quantcubator]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Mar 2016 09:37:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Quantcubator]]></title>
+            <description><![CDATA[<article><h1>Quantcubator</h1><p>undefined</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fab0967323776d76535bd7ae826d8e65a4e4780d.jpg"></article>]]></description>
+            <link>undefinedquantcubator/index.html</link>
+            <guid isPermaLink="false">788d1312-9f70-4d25-9763-5ac4f05de6d7</guid>
+            <pubDate>Wed, 02 Mar 2016 09:36:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
