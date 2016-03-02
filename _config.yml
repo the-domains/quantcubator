@@ -2,6 +2,7 @@ name: Quantcubator
 favicon: null
 layout_spectrum: 0.62046
 typography_spectrum: 0.22082
+title: 'This is the start of the site on topics of quantitative analysis, physics, maybe even bicycles, surfing and gardening.'
 cta:
   domain: null
   bucket: null
