@@ -1,0 +1,28 @@
+name: Quantcubator
+favicon: null
+layout_spectrum: 0.5337350864429027
+typography_spectrum: 0.9553005693014711
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.19492531777359545
+  lightness: 0.9622509658802301
+  saturation: 0.24414050159975886
+  rhythmicContrast: 0.1711131373886019
+purpose: []
