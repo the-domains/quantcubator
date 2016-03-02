@@ -1,6 +1,6 @@
 name: Quantcubator
 favicon: null
-layout_spectrum: 0.65797
+layout_spectrum: 0.89686
 typography_spectrum: 0.22082
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#8c381e'
     - '#ff8e53'
   brandStrength: 0.125
-  lightness: 0.9622509658802301
-  saturation: 0.1875
+  lightness: 0.9375
+  saturation: 0.75
   rhythmicContrast: 0.25
 purpose: []
