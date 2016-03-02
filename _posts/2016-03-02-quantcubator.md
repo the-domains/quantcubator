@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'This is the start of the site on topics of quantitative analysis, physics, maybe even  bicycles, surfing and gardening. '
-datePublished: '2016-03-02T20:24:08.397Z'
-dateModified: '2016-03-02T20:22:30.233Z'
+description: ''
+datePublished: '2016-03-02T20:27:18.199Z'
+dateModified: '2016-03-02T20:26:51.623Z'
 title: Quantcubator
 author: []
 sourcePath: _posts/2016-03-02-quantcubator.md
