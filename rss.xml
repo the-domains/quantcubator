@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Quantcubator]]></title>
         <description><![CDATA[Quantcubator]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/quantcubator/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 09:37:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 11:55:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/quantcubator/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Quantcubator]]></title>
-            <description><![CDATA[<article><h1>Quantcubator</h1><p>undefined</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fab0967323776d76535bd7ae826d8e65a4e4780d.jpg"></article>]]></description>
-            <link>undefinedquantcubator/index.html</link>
+            <description><![CDATA[<article><h1>Quantcubator</h1><p>This is the start of the site that with topics of quantitative analysis, physics, maybe even  bicycles, surfing and gardening. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fab0967323776d76535bd7ae826d8e65a4e4780d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/quantcubator/quantcubator/index.html</link>
             <guid isPermaLink="false">788d1312-9f70-4d25-9763-5ac4f05de6d7</guid>
-            <pubDate>Wed, 02 Mar 2016 09:36:49 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2016 11:54:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
