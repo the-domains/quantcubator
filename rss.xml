@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[This is the start of the site on topics of quantitative analysis, physics, maybe even bicycles, surfing and gardening.]]></title>
-        <description><![CDATA[This is the start of the site on topics of quantitative analysis, physics, maybe even bicycles, surfing and gardening.]]></description>
+        <title><![CDATA[quantitative analysis, physics, bicycles, surfing and gardening]]></title>
+        <description><![CDATA[quantitative analysis, physics, bicycles, surfing and gardening]]></description>
         <link>http://quantcubator.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 20:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 07:05:56 GMT</lastBuildDate>
         <atom:link href="http://quantcubator.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Quantcubator]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e26820df-f913-4bcd-b7be-a32bb11e8272.jpg">]]></description>
             <link>http://quantcubator.net/244d8699-9bf0-4a32-9353-609999640671/index.html</link>
             <guid isPermaLink="false">244d8699-9bf0-4a32-9353-609999640671</guid>
-            <pubDate>Wed, 02 Mar 2016 20:20:06 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2016 07:04:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
