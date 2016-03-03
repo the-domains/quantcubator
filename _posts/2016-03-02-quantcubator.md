@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T20:27:18.199Z'
-dateModified: '2016-03-02T20:26:51.623Z'
+datePublished: '2016-03-03T09:32:30.848Z'
+dateModified: '2016-03-03T09:19:00.378Z'
 title: Quantcubator
 author: []
 sourcePath: _posts/2016-03-02-quantcubator.md
@@ -23,3 +23,4 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ab05ae2-0309-437b-9651-2fad88fcfdfd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f7df682-6e99-40a5-b52d-63b18b6f0973.png)
