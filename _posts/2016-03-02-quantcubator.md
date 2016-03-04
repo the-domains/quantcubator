@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The Curta Calculator  is a small mechanical calculator invented by Curt Herzstark. Principle of work is similar to Leibniz’s calculator. It is one beautiful machine and although as mechanism it was not that novel, it is a brilliant machine that could be taken as a peak of commercial mechanical calculating device. While it was used in 50s and 60s, birth of electronic devices was announced and Curta didn’t have a future of becoming cheap and widely used calculator. It can be taken as product that celebrated portable mechanics and gave its place to electronics devices.'
-datePublished: '2016-03-04T07:40:28.325Z'
+datePublished: '2016-03-04T07:40:28.371Z'
 dateModified: '2016-03-04T07:33:31.301Z'
 title: Quantcubator
 author: []
